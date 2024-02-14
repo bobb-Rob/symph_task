@@ -5,3 +5,4 @@ node_modules/
 /playwright/.cache/
 /tests-examples/demo-todo-app.spec.js
 /tests/example.spec.js
+runner-authentication-token.md
